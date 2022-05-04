@@ -70,7 +70,7 @@ class _OyunMenuState extends State<OyunMenu> {
                       Text(
                         "RENKLER",
                         style: TextStyle(
-                            color: Colors.indigo.shade800,
+                            color: Colors.red.shade600,
                             fontSize: 20,
                             fontWeight: FontWeight.bold),
                       ),
@@ -109,9 +109,9 @@ class _OyunMenuState extends State<OyunMenu> {
                   Column(
                     children: [
                       Text(
-                        "Şekiller",
+                        "ŞEKİLLER",
                         style: TextStyle(
-                            color: Colors.purple.shade900,
+                            color: Colors.pink,
                             fontSize: 20,
                             fontWeight: FontWeight.bold),
                       ),
@@ -147,7 +147,7 @@ class _OyunMenuState extends State<OyunMenu> {
                       Text(
                         "HARFLER",
                         style: TextStyle(
-                            color: Colors.blue.shade900,
+                            color: Colors.teal,
                             fontSize: 20,
                             fontWeight: FontWeight.bold),
                       ),
